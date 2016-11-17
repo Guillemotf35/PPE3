@@ -8,6 +8,5 @@
 		<td width=30><a href=index.php?uc=voirStage&action=voirLesStages>Voir les stages</a></td> <br/>
         <td width=30><a href=index.php?uc=connexion&action=connexion>Connexion</a></td><br/>
     </tr>
-
 </body>
 </html>
