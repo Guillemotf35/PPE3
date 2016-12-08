@@ -2,9 +2,9 @@
 <html>
 <body>
  <a href="index.php?uc=gererStage&action=accueilAdmin">Accueil</a></br></br>
-   <p><h1>Creer un stage :</h1></p><BR/>
+   <p><h1>Supprimer un stage :</h1></p><BR/>
 
-   <form action="index.php?uc=gererStage&action=confirmCreation" method="post"> 
+   <form action="index.php?uc=gererStage&action=confirmSuppr" method="post"> 
 
 	Tarif :				<input type="text" size="20" name="tarif"></br>
 	Lieu : 				<input type="text" size="20" name="lieu"></br>
